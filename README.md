@@ -1,1 +1,1 @@
-# Digit_Recognizer_ML
+# Digit Recognizer ML
